@@ -1,0 +1,962 @@
+🆃🅸🆃🅻🅴 🅾🅵 🆃🅷🅴 🅿🅰🅶🅴​
+	
+<title>TryHackMe | Cyber Security Training</title>
+	
+🅰🅻🅻 🆃🅷🅴 🅿🅰🆁🅰🅶🆁🅰🅿🅷🆂
+	
+<p>Recently released
+</p>
+<p>Rooms
+<span id="rooms-count"></span>
+</p>
+<p>Modules <span id="modules-count"></span></p>
+<p>Learning paths <span id="paths-count"></span></p>
+<p>Networks <span id="networks-count"></span></p>
+<p class="size-30 faded mb-4 i-text-shadow main-sub-heading">Hands-on cyber security training through real-world
+scenarios</p>
+<p class="text-lgray size-18">Learning cyber security on TryHackMe is fun and addictive. Earn points by answering questions, taking on challenges and maintain your hacking streak through short lessons. </p>
+<p class="text-lgray size-18">Learn by following a structured paths and reinforce your skills in a real-world environment by completing guided, objective-based tasks and challenges.</p>
+<p class="mt-2 size-18 text-center faded">Learn cyber security with fun gamified labs and challenges</p>
+<p class="size-18 faded mb-0">TryHackMe goes way beyond textbooks and focuses on fun interactive lessons
+that make you put theory into practice. You'll get an immersive learning experience with network
+simulations, intentionally vulnerable technology based on real world examples and more.</p>
+<p class="size-18 faded mb-0">New to security? No problem! We have learning paths that will teach you
+the fundamental cyber security skills, which will help set you up to land a job in cyber security.
+</p>
+<p class="size-18 faded mb-0">We give you all the tools you need to start learning. Access a machine
+with the security tools you'll need through the browser, and starting learning from anywhere at any
+time. All you need is an internet connection!</p>
+<p class="size-18 faded mb-0">Take your cyber security training to the next stage by learning to attack
+and defend computer networks similar to those used by various organisations today.</p>
+<p class="text-lgray size-18">Connect with other like-minded cyber security students and join our huge community. Ask questions, share knowledge and meet people on the same journey as you.</p>
+<p class="d-block mt-3 faded"><small id="copyright-small"></small>
+<script>
+    document.getElementById("copyright-small").innerHTML = "Copyright TryHackMe 2018-" + new Date().getFullYear();
+</script>
+</p>
+<p class="size-18 faded">Join over 3 million others learning cyber security</p>
+	
+🅵🅸🆁🆂🆃 🅴🅻🅔🅼🅴🅽🆃 🅸🅽 🆃🅷🅴 🅷🆃🅼🅻 🅿🅰🅶🅴
+	
+<p>Recently released
+</p>
+	
+🅰🅻🅻 🆃🅷🅴 🆃🅴🆇🆃🆂 🅵🆁🅾🅼 🆃🅷🅴 🅿🅰🆁🅰🅶🆁🅰🅿🅷 🆃🅰🅶🆂 🅸🅽 🆃🅷🅴 🅷🆃🅼🅻 🆄🆁🅻
+	
+
+
+
+TryHackMe | Cyber Security Training
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Learn
+
+
+
+
+
+
+
+Learn
+Hands-on Hacking
+
+
+
+
+
+
+
+Practice
+Reinforce your learning
+
+
+
+
+
+
+
+Search
+Explore over 800 rooms
+
+
+
+
+
+
+
+Compete
+
+
+
+
+
+
+
+King of the Hill
+Attack & Defend
+
+
+
+
+
+
+
+Leaderboards
+Platform Rankings
+
+
+
+
+
+
+
+For Education
+
+
+
+
+
+
+
+Teaching
+Use our security labs
+
+
+
+
+
+
+
+Create Labs
+Upload & Deploy VMs
+
+
+
+
+
+
+
+For Business
+
+
+
+
+
+Pricing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+Recently released
+
+View all
+
+
+
+
+
+
+
+
+
+Rooms
+
+
+View all
+
+
+
+
+
+
+
+
+Modules 
+View all
+
+
+
+
+
+
+
+
+Learning paths 
+View all
+
+
+
+
+
+
+
+
+Networks 
+View all
+
+
+
+
+
+
+
+
+
+
+Login
+
+
+
+
+Join for FREE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Learn
+
+
+
+
+
+Compete
+
+
+
+
+
+
+
+
+King of the Hill
+Attack & Defend
+
+
+
+
+
+
+
+Leaderboards
+Platform Rankings
+
+
+
+
+
+
+
+Networks
+
+
+
+
+
+
+
+
+Throwback
+Attacking Active Directory
+
+
+
+
+
+
+
+Wreath
+Network Pivoting
+
+
+
+
+
+
+
+For Education
+
+
+
+
+
+
+
+
+Teaching
+Use our security labs
+
+
+
+
+
+
+
+Create Labs
+Upload & Deploy VMs
+
+
+
+
+
+
+
+For Business
+
+
+
+
+
+Pricing
+
+
+
+ 
+Search
+
+
+
+
+
+Login
+
+
+
+
+Join for FREE
+
+
+
+
+
+
+
+
+
+
+
+
+Anyone can learn cyber security with TryHackMe
+
+Hands-on cyber security training through real-world
+scenarios
+
+
+
+
+
+Join for FREE
+
+
+
+
+ Beginner Friendly
+
+
+ Guides and Challenges
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Byte-sized gamified lessons
+
+Learning cyber security on TryHackMe is fun and addictive. Earn points by answering questions, taking on challenges and maintain your hacking streak through short lessons. 
+
+
+
+
+
+Learn and Practice
+
+Learn by following a structured paths and reinforce your skills in a real-world environment by completing guided, objective-based tasks and challenges.
+
+
+Loading...
+
+
+
+
+
+Hands-on hacking for all skill levels
+Learn cyber security with fun gamified labs and challenges
+
+
+
+Exercises in every lesson
+Beginner Friendly
+Start Hacking Instantly
+Real-world Networks
+
+
+
+
+
+
+
+
+
+
+
+
+Exercises in every lesson
+TryHackMe goes way beyond textbooks and focuses on fun interactive lessons
+that make you put theory into practice. You'll get an immersive learning experience with network
+simulations, intentionally vulnerable technology based on real world examples and more.
+
+
+
+
+
+
+
+
+
+
+
+Beginner Friendly
+New to security? No problem! We have learning paths that will teach you
+the fundamental cyber security skills, which will help set you up to land a job in cyber security.
+
+
+
+
+
+
+
+
+
+
+
+
+Start Hacking Instantly
+We give you all the tools you need to start learning. Access a machine
+with the security tools you'll need through the browser, and starting learning from anywhere at any
+time. All you need is an internet connection!
+
+
+
+
+
+
+
+
+Real-world Networks
+Take your cyber security training to the next stage by learning to attack
+and defend computer networks similar to those used by various organisations today.
+
+
+
+
+
+
+
+Community
+
+Connect with other like-minded cyber security students and join our huge community. Ask questions, share knowledge and meet people on the same journey as you.
+
+
+
+352k
+
+Registered Users
+
+
+
+
+
+
+
+
+
+
+
+Used By
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Media
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ready to start learning cyber security?
+
+
+Join for FREE
+
+
+
+
+
+
+
+
+128 City Road, London, EC1V 2NX
+
+
+Learning
+
+Hands-on Labs
+For Business
+For Education
+Competitive Hacking
+
+
+
+Resources
+
+Newsroom
+About Us
+Blog
+Buy Vouchers
+Glossary
+Work at TryHackMe
+Careers in Cyber
+
+
+
+Socials
+
+Twitter
+Email
+Discord
+Forum
+
+
+
+
+
+
+
+
+
+
+Sign up
+Join over 3 million others learning cyber security
+
+
+
+
+Username
+
+
+
+Email
+
+
+
+Password
+
+
+
+
+Signup
+
+By signing up you agree to our Terms and Conditions
+Already have an account? Log in
+
+
+
+
+OR
+
+
+
+
+Sign up with Google
+
+
+
+Continue with SSO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+🅰🅻🅻 🆃🅷🅴 🅰🅽🅻🅾🆁🆂 🆃🅰🅶🆂
+	
+<a href="/">
+<img alt="TryHackMe" class="logo" src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" width="140"/>
+</a>
+<a class="nav-link" data-toggle="dropdown" href="#" id="nav-other">
+<i class="navbar-item-icon far fa-book-open"></i>
+<div class="navbar-item-text">Learn</div>
+</a>
+<a class="dropdown-item d-flex vertical-align-custom" href="/hacktivities">
+<div class="dropdown-menu-icon">
+<i class="fas fa-book-open"></i>
+</div>
+<div class="dropdown-menu-desc">
+<span class="mb-0">Learn</span>
+<div class="text-lgray size-12">Hands-on Hacking</div>
+</div>
+</a>
+<a class="dropdown-item d-flex vertical-align-custom" href="/r/hacktivities/practice">
+<div class="dropdown-menu-icon">
+<i class="fas fa-bullseye-arrow"></i>
+</div>
+<div class="dropdown-menu-desc">
+<span class="mb-0">Practice</span>
+<div class="text-lgray size-12">Reinforce your learning</div>
+</div>
+</a>
+<a class="dropdown-item d-flex vertical-align-custom" href="/r/hacktivities/search">
+<div class="dropdown-menu-icon">
+<i class="fas fa-search"></i>
+</div>
+<div class="dropdown-menu-desc">
+<span class="mb-0">Search</span>
+<div class="text-lgray size-12">Explore over 800 rooms</div>
+</div>
+</a>
+<a class="nav-link" data-toggle="dropdown" href="#" id="nav-other">
+<i class="navbar-item-icon far fa-trophy"></i>
+<div class="navbar-item-text">Compete</div>
+</a>
+<a class="dropdown-item d-flex vertical-align-custom" href="/games/koth">
+<div class="dropdown-menu-icon">
+<i class="fas fa-crown"></i>
+</div>
+<div class="dropdown-menu-desc">
+<span class="mb-0">King of the Hill</span>
+<div class="text-lgray size-12">Attack &amp; Defend</div>
+</div>
+</a>
+<a class="dropdown-item d-flex vertical-align-custom" href="/leaderboards">
+<div class="dropdown-menu-icon">
+<i class="fas fa-trophy"></i>
+</div>
+<div class="dropdown-menu-desc">
+<span class="mb-0">Leaderboards</span>
+<div class="text-lgray size-12">Platform Rankings</div>
+</div>
+</a>
+<a class="nav-link" data-toggle="dropdown" href="#" id="nav-other">
+<i class="navbar-item-icon far fa-university"></i>
+<div class="navbar-item-text">For Education</div>
+</a>
+<a class="dropdown-item d-flex vertical-align-custom" href="/classrooms">
+<div class="dropdown-menu-icon">
+<i class="fas fa-chalkboard-teacher"></i>
+</div>
+<div class="dropdown-menu-desc">
+<span class="mb-0">Teaching</span>
+<div class="text-lgray size-12">Use our security labs</div>
+</div>
+</a>
+<a class="dropdown-item d-flex vertical-align-custom" href="/develop-rooms">
+<div class="dropdown-menu-icon">
+<i class="fas fa-flask"></i>
+</div>
+<div class="dropdown-menu-desc">
+<span class="mb-0">Create Labs</span>
+<div class="text-lgray size-12">Upload &amp; Deploy VMs</div>
+</div>
+</a>
+<a class="nav-link" href="/business">
+<i class="navbar-item-icon far fa-briefcase"></i>
+<div class="navbar-item-text">For Business</div>
+</a>
+<a class="nav-link" href="/r/pricing">
+<i class="navbar-item-icon far fa-usd-circle"></i>
+<div class="navbar-item-text">Pricing</div>
+</a>
+<a class="view-all-link" href="/r/hacktivities/search?&amp;page=1&amp;kind=rooms&amp;order=newest">View all</a>
+<a class="view-all-link" href="" id="view-all-rooms">View all</a>
+<a class="view-all-link" href="" id="view-all-modules">View all</a>
+<a class="view-all-link" href="" id="view-all-paths">View all</a>
+<a class="view-all-link" href="" id="view-all-networks">View all</a>
+<a class="nav-link" href="/login">Login</a>
+<a class="nav-link" href="/signup" id="navbar-signup">
+<button class="btn btn-hgreen" type="button">
+Join for FREE
+</button>
+</a>
+<a aria-label="Go to the home page" href="/">
+<img alt="TryHackMe" class="logo" src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" width="140"/>
+</a>
+<a class="nav-link" href="/hacktivities">
+<i class="nav-title-icon far fa-book-open"></i>
+<div class="nav-title">Learn</div>
+</a>
+<a aria-controls="mobile-nav-compete" aria-expanded="false" aria-label="Toggle Compete menu" class="sublinks-toggle nav-link" data-dropdownid="mobile-nav-compete">
+<i class="nav-title-icon far fa-trophy"></i>
+<div class="nav-title">Compete</div>
+<i class="far fa-angle-down"></i>
+</a>
+<a href="/games/koth">
+<div>
+<i class="fas fa-crown"></i>
+</div>
+<div>
+<span class="mb-0">King of the Hill</span>
+<div class="text-lgray size-12">Attack &amp; Defend</div>
+</div>
+</a>
+<a href="/leaderboards">
+<div>
+<i class="fas fa-trophy"></i>
+</div>
+<div>
+<span class="mb-0">Leaderboards</span>
+<div class="text-lgray size-12">Platform Rankings</div>
+</div>
+</a>
+<a aria-controls="mobile-nav-networks" aria-expanded="false" aria-label="Toggle Networks menu" class="sublinks-toggle nav-link" data-dropdownid="mobile-nav-networks">
+<i class="nav-title-icon far fa-network-wired"></i>
+<div class="nav-title">Networks</div>
+<i class="far fa-angle-down"></i>
+</a>
+<a href="/network/throwback">
+<div>
+<i class="fab fa-windows"></i>
+</div>
+<div class="mr-3">
+<span class="mb-0">Throwback</span>
+<div class="text-lgray size-12">Attacking Active Directory</div>
+</div>
+</a>
+<a href="/room/wreath">
+<div>
+<i class="fas fa-stream"></i>
+</div>
+<div class="mr-3">
+<span class="mb-0">Wreath</span>
+<div class="text-lgray size-12">Network Pivoting</div>
+</div>
+</a>
+<a aria-controls="mobile-nav-education" aria-expanded="false" aria-label="Toggle For Education menu" class="sublinks-toggle nav-link" data-dropdownid="mobile-nav-education">
+<i class="nav-title-icon far fa-university"></i>
+<div class="nav-title">For Education</div>
+<i class="far fa-angle-down"></i>
+</a>
+<a href="/classrooms">
+<div>
+<i class="fas fa-chalkboard-teacher"></i>
+</div>
+<div>
+<span class="mb-0">Teaching</span>
+<div class="text-lgray size-12">Use our security labs</div>
+</div>
+</a>
+<a href="/develop-rooms">
+<div>
+<i class="fas fa-flask"></i>
+</div>
+<div>
+<span class="mb-0">Create Labs</span>
+<div class="text-lgray size-12">Upload &amp; Deploy VMs</div>
+</div>
+</a>
+<a class="nav-link" href="/business">
+<i class="nav-title-icon far fa-briefcase"></i>
+<div class="nav-title">For Business</div>
+</a>
+<a class="nav-link" href="/r/pricing">
+<i class="navbar-item-icon far fa-usd-circle"></i>
+<div class="nav-title">Pricing</div>
+</a>
+<a class="nav-link size-22" href="/r/hacktivities/search"> <i class="nav-title-icon far fa-search"></i>
+<div class="nav-title">Search</div>
+</a>
+<a class="login" href="/login">Login</a>
+<a class="nav-link" href="/signup" id="mobiile-navbar-signup">
+<button class="btn btn-hgreen" type="button">
+Join for FREE
+</button>
+</a>
+<a class="m-2" href="https://www.secjuice.com/tryhackme-learn-teach-cybersecurity/" target="_blank">
+<img class="secjuice" src="https://assets.tryhackme.com/img/secjuice.png"/>
+</a>
+<a class="m-2" href="https://www.enterprisetimes.co.uk/2019/02/27/tryhackme-a-new-cyber-security-skills-platform/" target="_blank">
+<img class="enterprisetimes-logo" src="https://assets.tryhackme.com/img/enterprisetimes.png"/>
+</a>
+<a class="m-2" href="https://www.contextis.com/en/news/context-sponsors-first-university-hackback-ctf-event" target="_blank">
+<img class="hb-sponsor-logo" src="https://assets.tryhackme.com/img/contextis.png"/>
+</a>
+<a class="m-2" href="https://www.infosecurity-magazine.com/next-gen-infosec/interview-portsmouth-tryhackme-1-1/" target="_blank">
+<img class="infosec-mag-logo" src="https://assets.tryhackme.com/img/infosec-magazine.png"/>
+</a>
+<a href="/hacktivities">Hands-on Labs</a>
+<a href="/business">For Business</a>
+<a href="/classrooms">For Education</a>
+<a href="/games/koth">Competitive Hacking</a>
+<a href="/resources/newsroom">Newsroom</a>
+<a href="/about">About Us</a>
+<a href="/resources/blog">Blog</a>
+<a href="/subscriptions">Buy Vouchers</a>
+<a href="/glossary">Glossary</a>
+<a href="/work-at-thm">Work at TryHackMe</a>
+<a href="/careers">Careers in Cyber</a>
+<a href="https://twitter.com/realtryhackme">Twitter</a>
+<a href="/cdn-cgi/l/email-protection#e088858c8c8fa09492998881838b8d85ce838f8d">Email</a>
+<a href="https://discord.gg/tryhackme">Discord</a>
+<a href="/forum">Forum</a>
+<a href="/legal/terms-of-use">Terms and Conditions</a>
+<a href="/login">Log in</a>
+<a class="btn btn-light ml-3" href="/r/login/sso">
+<i class="far fa-key mr-1"></i>
+Continue with SSO
+</a>
+	
+🅰🅻🅻 🆃🅷🅴 🅻🅸🅽🅺🆂 🅾🅵 🅰🅽🅻🅾🆁 🆃🅰🅶🆂
+	
+https://www.tryhackme.com/
+https://www.tryhackme.com/hacktivities
+https://www.tryhackme.com/r/hacktivities/practice
+https://www.tryhackme.com/r/hacktivities/search
+https://www.tryhackme.com/games/koth
+https://www.tryhackme.com/leaderboards
+https://www.tryhackme.com/classrooms
+https://www.tryhackme.com/develop-rooms
+https://www.tryhackme.com/business
+https://www.tryhackme.com/r/pricing
+https://www.tryhackme.com/r/hacktivities/search?&page=1&kind=rooms&order=newest
+https://www.tryhackme.com
+https://www.tryhackme.com
+https://www.tryhackme.com
+https://www.tryhackme.com
+https://www.tryhackme.com/login
+https://www.tryhackme.com/signup
+https://www.tryhackme.com/
+https://www.tryhackme.com/hacktivities
